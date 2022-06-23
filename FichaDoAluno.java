@@ -1,0 +1,5 @@
+class FichaDoAluno{
+  
+  void relatorio(){}
+
+}
